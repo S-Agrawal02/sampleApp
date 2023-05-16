@@ -1,5 +1,6 @@
 # sampleApp
 A simple Spring Boot application with Swagger APIs and database using Spring JDBC template
+
 ![image](https://github.com/S-Agrawal02/sampleApp/assets/29098671/9c142bce-828b-4291-b8ca-0abb1c3c9b91)
 
 **For create APIs :** We dont need to pass any arguments/object. It will dynamically call the randowm api, fetch the data and save the required details to the DB.
